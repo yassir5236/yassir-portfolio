@@ -32,7 +32,7 @@ const Hero = () => {
             >
                 <TypeAnimation
                     sequence={[
-                        "Fullstack Dev",
+                        "Full-stack Developer",
                         1000,
                         "Webdesigner",
                         1000,

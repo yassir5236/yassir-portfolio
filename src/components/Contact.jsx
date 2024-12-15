@@ -12,33 +12,35 @@ const Contact = () => {
                 <div className="text-gray-300 my-3">
                     <h3 className="text-4xl font-semibold mb-5">About <span>Me</span></h3>
                     <p className="text-justify leading-7 w-11/12 mx-auto">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa
-                        eos, quam vel quisquam, explicabo sit labore dignissimos optio
-                        ratione quibusdam doloribus pariatur consequuntur sint.
-                        Reprehenderit cupiditate possimus facere quasi voluptatem?
+                    I’m Yassir Ait Lahmadi, a Java developer with experience in building robust back-end systems
+                     using Java and Spring Boot. 
+                    I have hands-on experience creating REST APIs and managing databases with MySQL,
+                     PostgreSQL, and Hibernate. I recently worked on projects like WRM,
+                      a waiting room management system, and Citronix, a farm management application.
+                       I’m passionate about software development and always eager to expand my Java expertise
                     </p>
                 </div>
 
                 <div className="flex mt-10 items-center gap-7">
                     <div className="bg-gray-800/40 p-4 rounded-lg">
-                        <h3 className="md:text-4xl text-2xl font-semibold text-white">11
+                        <h3 className="md:text-4xl text-2xl font-semibold text-white">30
                             <span>+</span>
                         </h3>
                         <p className="text-xs md:text-base"><span>Projects</span></p>
                     </div>
 
                     <div className="bg-gray-800/40 p-5 rounded-lg">
-                        <h3 className="md:text-4xl text-2xl font-semibold text-white">5
+                        <h3 className="md:text-4xl text-2xl font-semibold text-white">2
                             <span>+</span>
                         </h3>
                         <p className="text-xs md:text-base"><span>years of experience</span></p>
                     </div>
 
                     <div className="bg-gray-800/40 p-5 rounded-lg">
-                        <h3 className="md:text-4xl text-2xl font-semibold text-white">30
+                        <h3 className="md:text-4xl text-2xl font-semibold text-white">10
                             <span>+</span>
                         </h3>
-                        <p className="text-xs md:text-base"><span>happy clients</span></p>
+                        <p className="text-xs md:text-base"><span>technologies</span></p>
                     </div>
 
                 </div>
