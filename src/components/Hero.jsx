@@ -73,10 +73,9 @@ const Hero = () => {
                 transition={{ duration: 1, delay: 1.5 }}
                 className="flex flex-row items-center gap-6 my-4 md:mb-0"
                 >
-                      {/* Download CV button */}
                       <motion.a
-                        href={cv}  // Add your CV file path here
-                        download="Yassir_Ait_Lahmadi_CV" // Optional: specify a default name for the file
+                        href={cv}  
+                        download="Yassir_Ait_Lahmadi_CV" 
                         whileHover={{ scale: 1.05, boxShadow: "0px 0px 8px rgba(0, 0, 0, 0.3)" }}
                         className="z-10 cursor-pointer font-bold text-gray-200 md:w-auto p-4 border
                                      border-purple-400 rounded-xl"
