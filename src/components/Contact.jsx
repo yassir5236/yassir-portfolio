@@ -48,7 +48,7 @@ const Contact = () => {
             </div>
 
             <form
-                action="https://getform.io/f/placeYourEndpointHere"
+                action="https://getform.io/f/bjjjxoyb"
                 method="POST"
                 className=" max-w-6xl p-5 md:p-12"
                 id="form"
